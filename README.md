@@ -23,7 +23,7 @@ The dashboard includes the following key insights:
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](./screenshot.png)
+![Dashboard Screenshot](./Screenshot.png)
 
 
 
